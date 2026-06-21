@@ -1,8 +1,6 @@
 # Amity Project — Report Writing Help
 
 [![Live Site](https://img.shields.io/badge/live-amityprojects.online-2563eb)](https://www.amityprojects.online/)
-[![Next.js](https://img.shields.io/badge/Next.js-14-black)](https://nextjs.org/)
-[![License](https://img.shields.io/badge/license-Private-lightgrey)]()
 
 > Marketing website for **Amity Project** — an independent academic writing-help service for Amity University students (MBA, BBA, BA, BCA, BCOM, MCOM, MA, PGDPA).
 
